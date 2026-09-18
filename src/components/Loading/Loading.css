@@ -1,0 +1,23 @@
+.loading {
+  min-height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: #bfc2cc;
+}
+
+.loading__dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #9c6cff;
+  animation: pulse 0.8s infinite alternate;
+}
+
+@keyframes pulse {
+  to {
+    opacity: 0.3;
+    transform: scale(0.8);
+  }
+}

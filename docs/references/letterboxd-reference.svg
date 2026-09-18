@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+  <rect width="1000" height="600" fill="#101116"/>
+  <rect x="70" y="70" width="860" height="70" rx="18" fill="#1d2028"/>
+  <rect x="70" y="180" width="190" height="290" rx="18" fill="#2b2f3a"/>
+  <rect x="285" y="180" width="190" height="290" rx="18" fill="#2b2f3a"/>
+  <rect x="500" y="180" width="190" height="290" rx="18" fill="#2b2f3a"/>
+  <rect x="715" y="180" width="190" height="290" rx="18" fill="#2b2f3a"/>
+  <circle cx="110" cy="105" r="14" fill="#9467e8"/>
+  <text x="145" y="115" fill="#ffffff" font-size="28" font-family="Arial, sans-serif">Referência visual: letterboxd</text>
+  <text x="70" y="535" fill="#aeb2bd" font-size="22" font-family="Arial, sans-serif">Esquema autoral para registrar padrão de interface observado.</text>
+</svg>
