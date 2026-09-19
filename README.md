@@ -4,7 +4,8 @@ MVP web responsivo desenvolvido em React para descoberta e organização de film
 
 ## Integrantes
 
-- Preencher nome e RM dos integrantes antes da entrega.
+- Felipe Romano de Paula Souza — RM 571653
+- Lucas Zarantonelli Lourenço — RM 569164
 
 ## Problema
 
